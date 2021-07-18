@@ -1,14 +1,23 @@
 # Workout-Tracker
 ## Table of Contents
-*[Description](#description)
-*[Installation](#installation)
-*[Usage](#usage)
-*[Contributions](#contributions)
-*[Tests](#tests)
-*[License](#license)
-*[Questions](#questions)
+-[Description](#description)
+
+-[Installation](#installation)
+
+-[Usage](#usage)
+
+-[Contributions](#contributions)
+
+-[Tests](#tests)
+
+-[License](#license)
+
+-[Questions](#questions)
+
 ## Description
 This application helps the user to keep track of the type of excercise and provides visuals for duration and weight of the excercises logged.
+Please follow [link to deployed application](https://immense-lake-71152.herokuapp.com/).
+
 ![Screenshot](./assets/Captura.JPG)
 ## Installation
 Install the node modules, and run the application.
